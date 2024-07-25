@@ -1,0 +1,7 @@
+{
+  "name": "swiper-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
